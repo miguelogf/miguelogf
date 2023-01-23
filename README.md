@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Gallardo</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelgallardof&label=Profile%20views&color=0e75b6&style=flat" alt="miguelgallardof" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelgallardof" alt="miguelgallardof" /></a> </p>
-
 - 🔭 I’m currently working on **Captura eLearning**
 
 - 🌱 I’m currently learning **Switft | TypeScript | Pythom**
