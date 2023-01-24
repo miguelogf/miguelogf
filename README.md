@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-<div align="center">I'm Miguel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+</div>
+<h1 align="center">I'm Miguel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 - 🔭 I’m currently working on **Captura eLearning**
