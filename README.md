@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/miguelogf](https://github.com/miguelogf)
 
-- 📫 How to reach me **miguel.gallardof@icloud.com**
+- 📫 How to reach me **miguel@gales.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
