@@ -37,11 +37,3 @@
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/></a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelogf&theme=tokyonight" alt="GitHub Streak" />
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelogf&show_icons=true&hide_border=true" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=miguelogf&show_icons=true&cache_seconds=1800" />
-</p>
