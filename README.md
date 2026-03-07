@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About
 
-- Building **Captura eLearning**
+- Working at **Captura eLearning**
 - Creating fast landing pages with **Astro**
 - Developing web apps with **Next.js**
 - Learning **Python and Swift**
