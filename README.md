@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" height="32" alt="Astro"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="TailwindCSS"/>
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="35" alt="Supabase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="32" alt="Supabase"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="32" alt="Figma"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height="32" alt="Photoshop"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" height="32" alt="Illustrator"/>
