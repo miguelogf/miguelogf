@@ -27,13 +27,13 @@
 
 ### 🧰  Tech Stack
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://astro.build/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
-   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" height="32"/>
 </p>
 
